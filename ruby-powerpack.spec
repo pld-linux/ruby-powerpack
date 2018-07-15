@@ -5,12 +5,12 @@
 %define	pkgname	powerpack
 Summary:	A few useful extensions to core Ruby classes
 Name:		ruby-%{pkgname}
-Version:	0.0.9
-Release:	2
+Version:	0.1.2
+Release:	1
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	1882a5be5c2cf10a78052b8f262be5f6
+# Source0-md5:	745bf5d0bc2766b0d193d01b95d01acf
 URL:		https://github.com/bbatsov/powerpack
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
