@@ -6,7 +6,7 @@
 Summary:	A few useful extensions to core Ruby classes
 Name:		ruby-%{pkgname}
 Version:	0.1.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
